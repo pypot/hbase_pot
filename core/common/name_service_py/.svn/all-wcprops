@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dssvn/!svn/ver/53141/trunk/intelligentservice/cloud_marketing_platform/marketing_control_center/bin/name_service_py
+END
+register_running_watch.py
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/dssvn/!svn/ver/53141/trunk/intelligentservice/cloud_marketing_platform/marketing_control_center/bin/name_service_py/register_running_watch.py
+END
+register_watch.py
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/dssvn/!svn/ver/53141/trunk/intelligentservice/cloud_marketing_platform/marketing_control_center/bin/name_service_py/register_watch.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dssvn/!svn/ver/53141/trunk/intelligentservice/cloud_marketing_platform/marketing_control_center/bin/name_service_py/__init__.py
+END
+nameservice.py
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dssvn/!svn/ver/53141/trunk/intelligentservice/cloud_marketing_platform/marketing_control_center/bin/name_service_py/nameservice.py
+END
+register.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dssvn/!svn/ver/53141/trunk/intelligentservice/cloud_marketing_platform/marketing_control_center/bin/name_service_py/register.py
+END
+register_running.py
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/dssvn/!svn/ver/53141/trunk/intelligentservice/cloud_marketing_platform/marketing_control_center/bin/name_service_py/register_running.py
+END
+watch.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dssvn/!svn/ver/53141/trunk/intelligentservice/cloud_marketing_platform/marketing_control_center/bin/name_service_py/watch.py
+END
