@@ -1,6 +1,15 @@
 hbase_pot
 =========
 
-use python to access hbase via thrift
+what's hbase_pot
+--------
+hbase_pot provide an access to hbase via thrift
 
-test wd branch
+
+how to use hbase_pot
+--------
+### SHELL
+
+
+### TOOLS
+#### Import
